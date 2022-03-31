@@ -1,1 +1,3 @@
-# discover-stocks
+# Discover Stocks
+
+## Collaborators
