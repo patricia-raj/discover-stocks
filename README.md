@@ -21,3 +21,7 @@ Our project is to create a dashboard that will allow the end user to filter on h
     Alpaca
 
 ## Collaborators
+    * Kamalnivas Balasubramanian
+    * John Ryan
+    * Alyssa Younger
+    * Patricia Rajamanickam
