@@ -20,8 +20,12 @@ Our project is to create a dashboard that will allow the end user to filter on h
     yfinance API
     Alpaca
 
+<<<<<<< HEAD
 ## Collaborators
     * Kamalnivas Balasubramanian
     * John Ryan
     * Alyssa Younger
     * Patricia Rajamanickam
+=======
+## Collaborators
+>>>>>>> 1ee2d85 (Update Project background and description)
