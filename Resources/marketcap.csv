@@ -1,0 +1,171 @@
+Year,Country,Company,MarketCap(USD Millions),Ticker
+2022,United States,Apple," 2,850,000 ",AAPL
+2022,United States,Microsoft," 2,311,000 ",MSFT
+2022,United States,Alphabet," 1,846,000 ",GOOG
+2022,United States,Amazon," 1,659,000 ",AMZN
+2022,United States,Tesla," 1,114,000 ",TSLA
+2022,United States,Berkshire Hathaway," 779,150 ",BRK-A
+2022,United States,Nvidia," 684,880 ",NVDA
+2022,United States,Meta," 605,250 ",FB
+2022,Taiwan,TSMC," 540,670 ",TSM
+2022,United States,Visa," 465,270 ",V
+2021,United States,Apple," 2,913,000 ",AAPL
+2021,United States,Microsoft," 2,525,000 ",MSFT
+2021,United States,Alphabet," 1,922,000 ",GOOG
+2021,United States,Amazon," 1,691,000 ",AMZN
+2021,United States,Tesla," 1,061,000 ",TSLA
+2021,United States,Meta," 935,640 ",FB
+2021,United States,Nvidia," 732,920 ",NVDA
+2021,United States,Berkshire Hathaway," 668,630 ",BRK-A
+2021,Taiwan,TSMC," 623,930 ",TSM
+2021,China,Tencent," 559,900 ",TCEHY
+2020,United States,Apple," 2,254,000 ",AAPL
+2020,United States,Microsoft," 1,682,000 ",MSFT
+2020,United States,Amazon," 1,634,000 ",AMZN
+2020,United States,Alphabet," 1,185,000 ",GOOG
+2020,United States,Facebook," 776,590 ",FB
+2020,China,Tencent," 683,470 ",TCEHY
+2020,United States,Tesla," 668,080 ",TSLA
+2020,China,Alibaba Group," 628,650 ",BABA
+2020,Taiwan,TSMC," 565,280 ",TSM
+2020,United States,Berkshire Hathaway," 544,780 ",BRK-A
+2019,United States,Apple," 1,305,000 ",AAPL
+2019,United States,Microsoft," 1,203,000 ",MSFT
+2019,United States,Alphabet," 922,130 ",GOOG
+2019,United States,Amazon," 916,150 ",AMZN
+2019,United States,Facebook," 585,320 ",FB
+2019,China,Alibaba Group," 569,010 ",BABA
+2019,United States,Berkshire Hathaway," 553,530 ",BRK-A
+2019,China,Tencent," 461,370 ",TCEHY
+2019,United States,JPMorgan Chase," 437,230 ",JPM
+2019,United States,Visa," 416,790 ",V
+2018,United States,Microsoft," 780,520 ",MSFT
+2018,United States,Apple," 748,680 ",AAPL
+2018,United States,Amazon," 735,900 ",AMZN
+2018,United States,Alphabet," 728,360 ",GOOG
+2018,United States,Berkshire Hathaway," 499,590 ",BRK-A
+2018,United States,Facebook," 375,890 ",FB
+2018,China,Tencent," 375,110 ",TCEHY
+2018,China,Alibaba Group," 355,130 ",BABA
+2018,United States,Johnson & Johnson," 346,110 ",JNJ
+2018,United States,JPMorgan Chase," 324,660 ",JPM
+2017,United States,Apple," 868,880 ",AAPL
+2017,United States,Alphabet," 727,040 ",GOOG
+2017,United States,Microsoft," 659,910 ",MSFT
+2017,United States,Amazon," 563,540 ",AMZN
+2017,United States,Facebook," 512,760 ",FB
+2017,China,Tencent," 493,340 ",TCEHY
+2017,United States,Berkshire Hathaway," 489,490 ",BRK-A
+2017,China,Alibaba Group," 440,712 ",BABA
+2017,United States,Johnson & Johnson," 375,360 ",JNJ
+2017,United States,JPMorgan Chase," 371,050 ",JPM
+2016,United States,Apple," 617,588 ",AAPL
+2016,United States,Alphabet," 531,970 ",GOOG
+2016,United States,Microsoft," 483,160 ",MSFT
+2016,United States,Berkshire Hathaway," 404,390 ",BRK-A
+2016,United States,ExxonMobil," 374,280 ",XOM
+2016,United States,Amazon," 356,313 ",AMZN
+2016,United States,Johnson & Johnson," 313,432 ",JNJ
+2016,United States,JPMorgan Chase," 308,768 ",JPM
+2016,United States,General Electric," 279,546 ",GE
+2016,United States,Wells Fargo," 276,779 ",WFC
+2015,United States,Apple," 598,344 ",AAPL
+2015,United States,Alphabet," 534,090 ",GOOG
+2015,United States,Microsoft," 449,799 ",MSFT
+2015,United States,Berkshire Hathaway," 323,750 ",BRK-A
+2015,United States,ExxonMobil," 325,167 ",XOM
+2015,United States,Amazon," 323,009 ",AMZN
+2015,United States,General Electric," 313,892 ",GE
+2015,United States,Johnson & Johnson," 287,153 ",JNJ
+2015,United States,Wells Fargo," 281,770 ",WFC
+2015,United States,JPMorgan Chase," 245,126 ",JPM
+2014,United States,Apple," 647,361 ",AAPL
+2014,United States,ExxonMobil," 391,482 ",XOM
+2014,United States,Microsoft," 382,880 ",MSFT
+2014,United States,Berkshire Hathaway," 370,653 ",BRK-A
+2014,United States,Google," 329,769 ",GOOG
+2014,China,PetroChina," 305,536 ",PTR
+2014,United States,Johnson & Johnson," 292,703 ",JNJ
+2014,United States,Wells Fargo," 284,386 ",WFC
+2014,United States,Walmart," 276,807 ",WMT
+2014,China,ICBC," 271,146 ",1398.HK
+2013,United States,Apple," 504,771 ",AAPL
+2013,United States,ExxonMobil," 442,143 ",XOM
+2013,United States,Microsoft," 312,297 ",MSFT
+2013,United States,Google," 310,079 ",GOOG
+2013,United States,Berkshire Hathaway," 292,396 ",BRK-A
+2013,United States,General Electric," 283,590 ",GE
+2013,United States,Johnson & Johnson," 258,415 ",JNJ
+2013,United States,Walmart," 254,623 ",WMT
+2013,Switzerland,Hoffmann-La Roche," 241,368 ",RHHBY
+2013,United States,Chevron Corporation," 240,223 ",CVX
+2012,United States,Apple," 500,611 ",AAPL
+2012,United States,ExxonMobil," 394,611 ",XOM
+2012,China,PetroChina," 264,833 ",PTR
+2012,Australia,BHP Billiton," 247,409 ",BHP
+2012,China,ICBC," 236,458 ",1398.HK
+2012,Hong Kong,China Mobile," 234,040 ",0941.HK
+2012,United States,Walmart," 228,245 ",WMT
+2012,South Korea,Samsung Electronics," 227,582 ",SSNLF
+2012,United States,Microsoft," 224,801 ",MSFT
+2012,Netherlands,Royal Dutch Shell," 222,670 ",SHEL
+2011,United States,ExxonMobil," 406,272 ",XOM
+2011,United States,Apple," 376,411 ",AAPL
+2011,China,PetroChina," 276,845 ",PTR
+2011,Netherlands,Royal Dutch Shell," 236,677 ",SHEL
+2011,China,ICBC," 228,168 ",1398.HK
+2011,United States,Microsoft," 218,380 ",MSFT
+2011,United States,IBM," 216,724 ",IBM
+2011,United States,Chevron Corporation," 211,894 ",CVX
+2011,United States,Walmart," 204,660 ",WMT
+2011,China,China Mobile," 196,148 ",0941.HK
+2010,United States,ExxonMobil," 368,712 ",XOM
+2010,China,PetroChina," 303,274 ",PTR
+2010,United States,Apple," 295,886 ",AAPL
+2010,Australia,BHP Billiton," 243,540 ",BHP
+2010,United States,Microsoft," 238,785 ",MSFT
+2010,China,ICBC," 233,369 ",1398.HK
+2010,Brazil,Petrobras," 229,067 ",PBR
+2010,China,China Construction Bank," 222,245 ",0939.HK
+2010,Netherlands,Royal Dutch Shell," 208,594 ",SHEL
+2010,Switzerland,Nestlé," 203,534 ",NSRGY
+2009,China,PetroChina," 353,140 ",PTR
+2009,United States,ExxonMobil," 323,717 ",XOM
+2009,United States,Microsoft," 270,635 ",MSFT
+2009,China,ICBC," 268,956 ",1398.HK
+2009,United States,Walmart," 203,654 ",WMT
+2009,China,China Construction Bank," 201,436 ",0939.HK
+2009,Australia,BHP Billiton," 201,248 ",BHP
+2009,United Kingdom,HSBC," 199,255 ",HSBC
+2009,Brazil,Petrobras," 199,108 ",PBR
+2009,United States,Apple," 189,802 ",AAPL
+2008,United States,ExxonMobil," 406,067 ",XOM
+2008,China,PetroChina," 259,836 ",PTR
+2008,United States,Walmart," 219,898 ",WMT
+2008,Hong Kong,China Mobile," 201,291 ",0941.HK
+2008,United States,Procter & Gamble," 184,576 ",PG
+2008,China,ICBC," 173,930 ",1398.HK
+2008,United States,Microsoft," 172,929 ",MSFT
+2008,United States,AT&T," 167,950 ",T
+2008,United States,Johnson & Johnson," 166,002 ",JNJ
+2008,United States,General Electric," 161,278 ",GE
+2007,China,Petrochina," 723,952 ",PTR
+2007,United States,ExxonMobil," 511,887 ",XOM
+2007,United States,General Electric," 374,637 ",GE
+2007,Hong Kong,China Mobile," 354,120 ",0941.HK
+2007,China,ICBC," 338,989 ",1398.HK
+2007,United States,Microsoft," 333,054 ",MSFT
+2007,Russia,Gazprom," 329,591 ",OGZPY
+2007,Netherlands,Royal Dutch Shell," 269,544 ",SHEL
+2007,United States,AT&T," 252,051 ",T
+2007,China,Sinopec," 249,645 ",0386.HK
+2006,United States,ExxonMobil," 446,943 ",XOM
+2006,United States,General Electric," 383,564 ",GE
+2006,United States,Microsoft," 293,537 ",MSFT
+2006,United States,Citigroup," 273,691 ",CVX
+2006,Russia,Gazprom," 271,482 ",OGZPY
+2006,China,Industrial and Commercial Bank of China," 254,592 ",1398.HK
+2006,Japan,Toyota," 241,161 ",TM
+2006,United States,Bank of America," 239,758 ",BAC
+2006,Netherlands,Royal Dutch Shell," 225,781 ",SHEL
+2006,United Kingdom,BP," 218,643 ",BP
