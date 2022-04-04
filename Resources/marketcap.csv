@@ -169,3 +169,15 @@ Year,Country,Company,MarketCap(USD Millions),Ticker
 2006,United States,Bank of America," 239,758 ",BAC
 2006,Netherlands,Royal Dutch Shell," 225,781 ",SHEL
 2006,United Kingdom,BP," 218,643 ",BP
+2006,United States, SPDR S&P 500 ETF, 0, SPY
+2006,United States, Materials Select Sector SPDR ETF, 0, XLB
+2006,United States, Communication Services Select Sector SPDR ETF, 0, XLC
+2006,United States, Energy Select Sector SPDR ETF, 0, XLE
+2006,United States, Financial Select Sector SPDR ETF, 0, XLF
+2006,United States, Industrial Select Sector SPDR ETF, 0, XLI
+2006,United States, echnology Select Sector SPDR ETF, 0, XLK
+2006,United States, Consumer Staples Select Sector, 0, XLP
+2006,United States, Real Estate Select Sector SPDR ETF, 0, XLRE
+2006,United States, Utilities Select Sector SPDR ETF, 0, XLU
+2006,United States, Healthcare Select Sector SPDR ETF, 0, XLV
+2006,United States, Consumer Discretionary Select Sector SPDR ETF, 0, XLY
