@@ -14,11 +14,10 @@ Our project is to create a dashboard that will allow the end user to filter on h
 *   Performance around earnings release:
     -   30 day period before and after earnings call
     -   15 day period before and after earnings call
-*   General sentiment and accuracy of that forecast
 *   Price target conviction (comparing forecasts against actual performance)
 3)  Possible source for such data.
     yfinance API
-    Alpaca
+    Wiki
 
 ## Collaborators
 * Kamalnivas Balasubramanian
