@@ -13,23 +13,36 @@ By conducting this analysis we hope to illustrate marketplace trends and further
     * Compiled this data manually and stored in a csv file
     * Listed the top 10 companies each year
     * Displayed overall growth in terms of market capitlization across the dataset to identify companies that have become more prevalent and dominant factors in the current marketplace
+
+![](./Images/marketcapgrowth.png)
+
 2)  After identifying those high profile companies from the last 15 years, our group wanted to demonstrate performance over that same time period in hopes of uncovering additional trends.
     *   Through the use of the yfinance API we were able to compile a dataset that stored the percent change in terms of stock price to identify the top performing companies each year
         *   '08-09' Recession Impacts
         *   COVID-19 Market Pullback
         *   From 2006-2021 we see the continued fast paced growth of tech and tech related stocks
-            Tesla
-            Amazon
-            Facebook (Meta)
-            Nvidia
+            * Tesla
+            * Amazon
+            * Facebook (Meta)
+            * Nvidia
 
-*   Performance around earnings release:
-    -   30 day period before and after earnings call
-    -   15 day period before and after earnings call
-*   Price target conviction (comparing forecasts against actual performance)
-3)  Possible source for such data.
-    yfinance API
-    Wiki
+3)  Next, our group wanted to touch on an interesting phenomenan that is revelant to the current market landscape: yield curve inversion.
+    * The yield curve has inverted before every recession that has taken place since the 1970s.
+    * Historical analysis comparing the 10YR/2YR  and 10YR/3mo inversions over the last 15 years and subsequent performance of S&P 500 sectors.
+    * Last 10YR/2YR inversion took place April 1st, 2022.
+
+
+![](./Images/10yr2yr_1stInv_18mo.png)
+
+![](./Images/10yr2yr_2ndInv_18mo.png)
+
+
+4) Last but not least... Data Collection and Cleansing
+    * Keep the data collection limited but still gain insight at a macro level. We did this my limiting the analysis of the companies to top 10 by market cap for the years 2006 – 2021. This way we would cover the past losers & the recent winners as well.
+    * We used yfinance to primarily source all this data. To avoid the lack of data of non-US equities we decided to stick only to the US based companies. 
+    * Since this is a stale data, we wanted to avoid downloading this data repeatedly & stored it in a csv which was then used for the subsequent analysis..
+    * This being a large time period, we had to deal with lack of data for recently IPOd companies. We used fillna(method='backfill’) to make sure the pct_change() values are sane for the missing data.
+
 
 ## Collaborators
 * Kamalnivas Balasubramanian
