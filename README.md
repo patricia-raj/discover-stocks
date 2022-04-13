@@ -52,6 +52,8 @@ By conducting this analysis we hope to illustrate marketplace trends and further
 
 
 ## Installation Guide
+- ### Must have Anaconda base ###
+```
 conda activate base
 conda create -n pyvizenv python=3.7 -y
 conda activate pyvizenv
@@ -69,3 +71,5 @@ jupyter labextension install jupyterlab-plotly --no-build
 jupyter labextension install plotlywidget --no-build
 jupyter labextension install @pyviz/jupyterlab_pyviz --no-build
 jupyter lab build 
+
+```
